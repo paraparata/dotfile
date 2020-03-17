@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Plastik-Rosse
+Comment=simple theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Plastik-Rosse
+MetacityTheme=Plastik-Rosse
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
